@@ -1,1 +1,1 @@
-# UMLEND-model-deployment
+# Deployment of a moview review sentiment model via AWS.
